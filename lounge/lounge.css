@@ -29,6 +29,7 @@
   text-align: center;
   background-image: url(images/cocktail.gif);
   background-repeat: repeat-x;
+  float: right;
 }
 #top h2
 {
@@ -45,6 +46,7 @@
  #top
  {
    line-height: 1;
+  
  }
   #a
  {
@@ -52,6 +54,7 @@
    text-align: center;
    line-height: normal;
    margin-top: 30px;
+  
  }
  .cd
  {
@@ -60,4 +63,8 @@
  .artist
  {
    font-weight: bold;
+ }
+ .top
+ {
+  float: right;
  }
